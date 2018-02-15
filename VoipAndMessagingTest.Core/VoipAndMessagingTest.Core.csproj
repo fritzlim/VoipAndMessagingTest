@@ -9,5 +9,6 @@
     <PackageReference Include="Plivo" Version="4.0.0" />
     <PackageReference Include="Nexmo.Csharp.Client" Version="3.0.0-pre3" />
     <PackageReference Include="Newtonsoft.Json" Version="11.0.1-beta3" />
+    <PackageReference Include="Xamarin.Forms" Version="2.5.0.122203" />
   </ItemGroup>
 </Project>
