@@ -7,5 +7,6 @@
   <ItemGroup>
     <PackageReference Include="Twilio.AspNet.Core" Version="5.8.3" />
     <PackageReference Include="Plivo" Version="4.0.0" />
+    <PackageReference Include="Nexmo.Csharp.Client" Version="3.0.0-pre3" />
   </ItemGroup>
 </Project>
