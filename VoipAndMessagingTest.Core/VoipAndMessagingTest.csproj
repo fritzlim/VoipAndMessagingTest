@@ -15,6 +15,9 @@
     <Compile Remove="Class1.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Remove="App.xaml" />
+  </ItemGroup>
+  <ItemGroup>
     <EmbeddedResource Include="App.xaml" />
   </ItemGroup>
 </Project>
