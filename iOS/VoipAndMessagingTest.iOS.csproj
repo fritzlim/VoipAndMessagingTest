@@ -219,6 +219,12 @@
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VoipAndMessagingTest.Core\VoipAndMessagingTest.csproj">
+      <Project>{9FD118A0-4289-4B48-86C6-53C0A8FD49BB}</Project>
+      <Name>VoipAndMessagingTest</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.2.5.0.122203\build\netstandard1.0\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.5.0.122203\build\netstandard1.0\Xamarin.Forms.targets')" />
 </Project>
