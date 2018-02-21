@@ -201,12 +201,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\VoipAndMessagingTest\VoipAndMessagingTest.csproj">
-      <Project>{8FC4C373-5B0C-4493-8B7B-0B0A3B2F6F41}</Project>
-      <Name>VoipAndMessagingTest</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\Contents.json" />
   </ItemGroup>

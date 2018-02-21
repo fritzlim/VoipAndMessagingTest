@@ -16,5 +16,11 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="App.xaml" />
+    <EmbeddedResource Include="VoipAndMessagingTestPage.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="VoipAndMessagingTestPage.xaml.cs">
+      <DependentUpon>VoipAndMessagingTestPage.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
 </Project>

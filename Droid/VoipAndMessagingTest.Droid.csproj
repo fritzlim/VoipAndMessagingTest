@@ -213,12 +213,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\VoipAndMessagingTest\VoipAndMessagingTest.csproj">
-      <Project>{8FC4C373-5B0C-4493-8B7B-0B0A3B2F6F41}</Project>
-      <Name>VoipAndMessagingTest</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
