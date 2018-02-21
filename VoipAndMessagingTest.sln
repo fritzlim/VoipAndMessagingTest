@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoipAndMessagingTest.iOS", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoipAndMessagingTest.Droid", "Droid\VoipAndMessagingTest.Droid.csproj", "{8CEDD1D4-25EB-4502-851A-AB554B134792}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoipAndMessagingTest.Core", "VoipAndMessagingTest.Core\VoipAndMessagingTest.Core.csproj", "{9FD118A0-4289-4B48-86C6-53C0A8FD49BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoipAndMessagingTest", "VoipAndMessagingTest.Core\VoipAndMessagingTest.csproj", "{9FD118A0-4289-4B48-86C6-53C0A8FD49BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
