@@ -241,6 +241,9 @@
     <Reference Include="Xamarin.Forms.Xaml">
       <HintPath>..\packages\Xamarin.Forms.2.5.0.280555\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll</HintPath>
     </Reference>
+    <Reference Include="Naxam.SinchVoice.Droid">
+      <HintPath>..\packages\Naxam.SinchVoice.Droid.3.11.0\lib\MonoAndroid10\Naxam.SinchVoice.Droid.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
