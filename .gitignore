@@ -299,4 +299,4 @@ __pycache__/
 *.xsd.cs
 
 # Android Resource.designer.cs file from Visual Studio
-Droid/Resources/Resource.designer.cs
+/Droid/Resources/Resource.designer.cs
